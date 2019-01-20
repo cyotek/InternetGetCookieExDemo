@@ -1,0 +1,14 @@
+.vs/
+releases/
+packages/
+bin/
+obj/
+NDependOut/
+_NCrunch_*/
+nuget/
+
+*.ncrunchsolution
+*.ncrunchproject
+*.suo
+*.user
+*.zip
